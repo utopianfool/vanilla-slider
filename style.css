@@ -179,7 +179,7 @@ nav {
 .carousel-slide {
     display: flex;
     width: 100%;
-    height: auto;
+    height: 45vh;
 }
 
 button {
